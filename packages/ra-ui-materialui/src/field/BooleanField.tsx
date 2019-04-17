@@ -122,5 +122,6 @@ EnhancedBooleanField.propTypes = {
     valueLabelFalse: PropTypes.string,
     valueLabelTrue: PropTypes.string,
 };
+EnhancedBooleanField.displayName = 'EnhancedBooleanField';
 
 export default EnhancedBooleanField;
